@@ -94,8 +94,8 @@ print(values)
 
 #q7 count the number of occurence of each letter in word MISSISSIPPI . store count of every letter with letter in a dictionary.
 
-word = list("MISSISSIPPI")
-print(word)
+String = list("MISSISSIPPI")
+print(string)
 d={}
 d['M']=word.count('M')
 d['I']=word.count('I')
